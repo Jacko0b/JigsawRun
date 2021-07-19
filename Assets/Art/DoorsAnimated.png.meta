@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: b90abab84135daa47be34d0b4e2840d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5914649133426611847
+    second: DoorsAnimated_0
+  - first:
+      213: 3814359554858451744
+    second: DoorsAnimated_1
+  - first:
+      213: 4956641875149751498
+    second: DoorsAnimated_2
+  - first:
+      213: 333569122005674575
+    second: DoorsAnimated_3
+  - first:
+      213: -8830243791405040565
+    second: DoorsAnimated_4
+  - first:
+      213: -1691880456686351498
+    second: DoorsAnimated_5
+  - first:
+      213: -6989366684335501787
+    second: DoorsAnimated_6
+  - first:
+      213: -6312145182191626936
+    second: DoorsAnimated_7
+  - first:
+      213: -4660706143958323229
+    second: DoorsAnimated_8
+  - first:
+      213: 5748084436262656539
+    second: DoorsAnimated_9
+  - first:
+      213: 454912726934441036
+    second: DoorsAnimated_10
+  - first:
+      213: 308823075572999236
+    second: DoorsAnimated_11
+  - first:
+      213: 1422743647541558071
+    second: DoorsAnimated_12
+  - first:
+      213: -2168628035403054072
+    second: DoorsAnimated_13
+  - first:
+      213: -8026526811714679206
+    second: DoorsAnimated_14
+  - first:
+      213: 8752746038011730270
+    second: DoorsAnimated_15
+  - first:
+      213: -366534661853900425
+    second: DoorsAnimated_16
+  - first:
+      213: -3258518717337867035
+    second: DoorsAnimated_17
+  - first:
+      213: -5284956110511463552
+    second: DoorsAnimated_18
+  - first:
+      213: 6390414201868823286
+    second: DoorsAnimated_19
+  - first:
+      213: -8331552257920222642
+    second: DoorsAnimated_20
+  - first:
+      213: 2155885587548910548
+    second: DoorsAnimated_21
+  - first:
+      213: 3642431755445417336
+    second: DoorsAnimated_22
+  - first:
+      213: 700976054530653899
+    second: DoorsAnimated_23
+  - first:
+      213: 1615347652683687830
+    second: DoorsAnimated_24
+  - first:
+      213: -6449424750100489766
+    second: DoorsAnimated_25
+  - first:
+      213: -8922636806861860063
+    second: DoorsAnimated_26
+  - first:
+      213: 4559032194123029223
+    second: DoorsAnimated_27
+  - first:
+      213: -5134567376525562803
+    second: DoorsAnimated_28
+  - first:
+      213: -3408518915040928261
+    second: DoorsAnimated_29
+  - first:
+      213: -3570097899830129802
+    second: DoorsAnimated_30
+  - first:
+      213: 8379072453613528015
+    second: DoorsAnimated_31
+  - first:
+      213: 4980519438555696479
+    second: DoorsAnimated_32
+  - first:
+      213: 6287017554963821017
+    second: DoorsAnimated_33
+  - first:
+      213: -1495137241835624579
+    second: DoorsAnimated_34
+  - first:
+      213: -3716079714076340904
+    second: DoorsAnimated_35
+  - first:
+      213: -4363655470968375067
+    second: DoorsAnimated_36
+  - first:
+      213: -3687288406615110107
+    second: DoorsAnimated_37
+  - first:
+      213: -4144253350386567847
+    second: DoorsAnimated_38
+  - first:
+      213: -7465873024596035331
+    second: DoorsAnimated_39
+  - first:
+      213: 5518164062939839022
+    second: DoorsAnimated_40
+  - first:
+      213: 7748842726539496303
+    second: DoorsAnimated_41
+  - first:
+      213: 7311413253488439101
+    second: DoorsAnimated_42
+  - first:
+      213: 4448681982087022583
+    second: DoorsAnimated_43
+  - first:
+      213: -805288734629319932
+    second: DoorsAnimated_44
+  - first:
+      213: -8542397100755985609
+    second: DoorsAnimated_45
+  - first:
+      213: -1057301744159886249
+    second: DoorsAnimated_46
+  - first:
+      213: 8305848165895213962
+    second: DoorsAnimated_47
+  - first:
+      213: -4508424728407875163
+    second: DoorsAnimated_48
+  - first:
+      213: 1083532740996025310
+    second: DoorsAnimated_49
+  - first:
+      213: -8308367943873955562
+    second: DoorsAnimated_50
+  - first:
+      213: -6167354598690110655
+    second: DoorsAnimated_51
+  - first:
+      213: -986206491431313347
+    second: DoorsAnimated_52
+  - first:
+      213: 2608702614105656548
+    second: DoorsAnimated_53
+  - first:
+      213: 4839256391691802404
+    second: DoorsAnimated_54
+  - first:
+      213: 2161037716136394856
+    second: DoorsAnimated_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoorsAnimated_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 362
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78617f8bc0e051250800000000000000
+      internalID: 5914649133426611847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 362
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02384f84ec35fe430800000000000000
+      internalID: 3814359554858451744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 362
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac48027268789c440800000000000000
+      internalID: 4956641875149751498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 386
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aef21695311a400800000000000000
+      internalID: 333569122005674575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 362
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c343d6e0ca47580800000000000000
+      internalID: -8830243791405040565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 388
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc8c840bb3588e0800000000000000
+      internalID: -1691880456686351498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 362
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8b372808c00f90800000000000000
+      internalID: -6989366684335501787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_7
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 390
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84556c46661c668a0800000000000000
+      internalID: -6312145182191626936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_8
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 362
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef22ee9478d15fb0800000000000000
+      internalID: -4660706143958323229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 392
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a1362175c45cf40800000000000000
+      internalID: 5748084436262656539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 362
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c4bb407bc205600800000000000000
+      internalID: 454912726934441036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 394
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e8f573f8294400800000000000000
+      internalID: 308823075572999236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_12
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 360
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b78263fc99eb310800000000000000
+      internalID: 1422743647541558071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_13
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 396
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80409dbaa4c77e1e0800000000000000
+      internalID: -2168628035403054072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 242
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e099f146c0c9090800000000000000
+      internalID: -8026526811714679206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 242
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5995e4c520087970800000000000000
+      internalID: 8752746038011730270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 242
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719452caaec9eaf0800000000000000
+      internalID: -366534661853900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 266
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec6d1fad7a67c2d0800000000000000
+      internalID: -3258518717337867035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0832f6b1b6018a6b0800000000000000
+      internalID: -5284956110511463552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 268
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faa006dbdf4fa850800000000000000
+      internalID: 6390414201868823286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 242
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4abf072d51606c80800000000000000
+      internalID: -8331552257920222642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 270
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3bc3ef48e3bed10800000000000000
+      internalID: 2155885587548910548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 242
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8753de512648c8230800000000000000
+      internalID: 3642431755445417336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_23
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 272
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceba56f10e5ab900800000000000000
+      internalID: 700976054530653899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_24
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 242
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e8f2b12eda6610800000000000000
+      internalID: 1615347652683687830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_25
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 274
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d5ac3c5a0f76a0800000000000000
+      internalID: -6449424750100489766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_26
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 240
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1235c2b291d6c2480800000000000000
+      internalID: -8922636806861860063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_27
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 276
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead54230afe44f30800000000000000
+      internalID: 4559032194123029223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c62e6dc2a5eb8b0800000000000000
+      internalID: -5134567376525562803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 122
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd19ca1b1282b0d0800000000000000
+      internalID: -3408518915040928261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 146
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc14310e6747ec0800000000000000
+      internalID: -3570097899830129802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 122
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc325e89002784470800000000000000
+      internalID: 8379072453613528015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 148
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4a0c9a0c5e1540800000000000000
+      internalID: 4980519438555696479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 122
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1734cf729ff3750800000000000000
+      internalID: 6287017554963821017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_34
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 150
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772ee1a994304be0800000000000000
+      internalID: -1495137241835624579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_35
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 122
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc17d4035dd6cc0800000000000000
+      internalID: -3716079714076340904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_36
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 152
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e87db2087e2173c0800000000000000
+      internalID: -4363655470968375067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_37
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 122
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4a43fabe14dcc0800000000000000
+      internalID: -3687288406615110107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_38
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 154
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9557cf6f887ac76c0800000000000000
+      internalID: -4144253350386567847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_39
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 122
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df838ce3a04e36890800000000000000
+      internalID: -7465873024596035331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_40
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 156
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2afadf8af4749c40800000000000000
+      internalID: 5518164062939839022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_41
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 120
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b81c7976b698b60800000000000000
+      internalID: 7748842726539496303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe244dd9b577560800000000000000
+      internalID: 7311413253488439101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74afc41b4ecbd30800000000000000
+      internalID: 4448681982087022583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 26
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40babc6992a03d4f0800000000000000
+      internalID: -805288734629319932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bdc1fa81f437980800000000000000
+      internalID: -8542397100755985609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_46
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 28
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f2fe5aa5b351f0800000000000000
+      internalID: -1057301744159886249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_47
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83938e86ec444370800000000000000
+      internalID: 8305848165895213962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_48
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 30
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a169ae989bde61c0800000000000000
+      internalID: -4508424728407875163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_49
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc291894b790f00800000000000000
+      internalID: 1083532740996025310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_50
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 32
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619762aef5fb2bc80800000000000000
+      internalID: -8308367943873955562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_51
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14344352ba7296aa0800000000000000
+      internalID: -6167354598690110655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_52
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 34
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d306d03db6a4052f0800000000000000
+      internalID: -986206491431313347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_53
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec866eb439f33420800000000000000
+      internalID: 2608702614105656548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_54
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 36
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42714db7c0e782340800000000000000
+      internalID: 4839256391691802404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorsAnimated_55
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86008886a5c8dfd10800000000000000
+      internalID: 2161037716136394856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

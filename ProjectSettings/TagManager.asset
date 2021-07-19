@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - PressurePlate
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UII
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: collider
+    uniqueID: 4059731249
+    locked: 0
+  - name: nothingness
+    uniqueID: 3341134471
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InnerMapEdge(-1)
+    uniqueID: 3902163247
+    locked: 0
+  - name: traps
+    uniqueID: 2117455603
+    locked: 0
+  - name: floor
+    uniqueID: 695138319
+    locked: 0
+  - name: wall
+    uniqueID: 2532073001
+    locked: 0
+  - name: player
+    uniqueID: 850078481
+    locked: 0
+  - name: UI
+    uniqueID: 3400727697
+    locked: 0

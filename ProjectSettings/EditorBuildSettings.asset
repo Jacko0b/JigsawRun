@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8f1cc7464d3cbe349b0ad4d95483ea52
+  - enabled: 1
+    path: Assets/Scenes/FakeTutorial.unity
+    guid: 27ab2cde4098cfc46aa100a3ad3b9a11
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lvl1 - ThatCantBeATutorial.unity
+    guid: 4d72d7a7fa2100b4eac1385a308295e3
+  - enabled: 1
+    path: Assets/Scenes/LevelToRun.unity
+    guid: 49bc1397b30414046a74058feec3e445
+  - enabled: 1
+    path: Assets/Scenes/WhatsInTheBox.unity
+    guid: fa21ec3968cadcc47b8035be807733d4
+  - enabled: 1
+    path: Assets/Scenes/Labirynth.unity
+    guid: 9618d5edefb3dc243ba974dcef103c16
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a78927dae8a8a91498093d402754a999,
+      type: 2}
